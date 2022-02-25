@@ -15,5 +15,3 @@ END;
 -- Testing the newly created function:
 PRINT dbo.getNthHighestSalary(2);
 
-
-

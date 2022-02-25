@@ -28,12 +28,12 @@ PIVOT(
         [Feb], 
         [Mar], 
         [Apr], 
-		[May],
+	[May],
         [Jun], 
         [Jul],
-		[Aug],
-		[Sep],
-		[Oct],
-		[Nov],
-		[Dec])
+	[Aug],
+	[Sep],
+	[Oct],
+	[Nov],
+	[Dec])
 ) AS PivotTable;
